@@ -1,9 +1,8 @@
-# Akhenaten (public)
-[akhenaten](https://github.com/elwood777/akhenaten)
-A simple applicaion to showcase an solid understanding Jest within ReactJS.
-
+# Akhenaten (public)  
+![Akhenaten](index-akhenaten.jpg)  
+  
 **Objective**   
-Deep dive into the world of JEST within REACTJS. Explore enterprise level examples of testing with JEST.
+Deep dive into the world of JEST within the REACTJS concept. A simple applicaion to showcase an solid understanding Jest within ReactJS.
 
 
 ## Core Concepts  
