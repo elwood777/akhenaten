@@ -1,5 +1,6 @@
 import logo from './assests/svgs/logo.svg';
 import './assests/scss/main.scss';
+import Button from '@mui/material/Button';
 
 function App() {
   return (
@@ -7,6 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>Akhenaten</h2>
+        <div>
+      <Button variant="contained">Hello World</Button>
+    </div>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
