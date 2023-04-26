@@ -5,11 +5,59 @@ A simple applicaion to showcase an solid understanding Jest within ReactJS.
 **Objective**   
 Deep dive into the world of JEST within the REACTJS concept
 
+
+
+
+
+
+
+
 ## Getting Started
+
+
+### Create The App
 Create a new React component called "akhenaten" (To Do List) 
 ```
 npx create-react-app akhenaten
 ``` 
+
+### Install packages  
+Change directory into the new "akhenaten" direcotry
+```
+$ cd akhenaten/
+```   
+Install packages
+```
+$ npm i
+```
+
+
+### Update The File Structure
+Updated the boilerplate project with an updated folder structure.
+```
+akhenaten/
+  |- src/
+  |   |- assets/
+  |   |- components/
+  |   |- context/
+  |   |- data/
+  |   |- hooks/
+  |   |- pages/
+  |   |- utils/
+  |- package.json
+```
+
+### Run The New Project
+```
+npm starts
+```
+
+
+
+
+
+
+
 
 ---  
 
