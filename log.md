@@ -49,11 +49,29 @@ akhenaten/
 
 ### Run The New Project
 ```
-npm starts
+$ npm starts
 ```
 
+### Add Material UI
+See [Material UI](https://mui.com/)  
+```
+$ npm install @mui/material @emotion/react @emotion/styled
+```
 
+### Test/Verify 
+App.js
+```js
+import Button from '@mui/material/Button';
 
+function App() {
+  return (
+    <Button variant="contained">Hello World</Button>
+  );
+}
+
+export default App;
+
+```
 
 
 
